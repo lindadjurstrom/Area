@@ -16,7 +16,7 @@ public class Main {
         konto.taut();
         konto2.taut();
 
-
+//sal
 
     }
 }
